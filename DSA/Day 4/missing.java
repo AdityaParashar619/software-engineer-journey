@@ -9,3 +9,6 @@ public class missing {
         return sum1-asum;
     }
 } 
+// Input: nums = [3,0,1]
+
+// Output: 2

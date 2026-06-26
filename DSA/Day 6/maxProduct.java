@@ -24,3 +24,5 @@ class Solution {
         return result;
     }
 }
+// Input: nums = [2,3,-2,4]
+// Output: 6
