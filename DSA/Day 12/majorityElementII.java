@@ -78,5 +78,6 @@ class Solution {
         return ans;
     }
 }
+//TC =O(n)
 // Input: nums = [3,2,3]
 // Output: [3]
