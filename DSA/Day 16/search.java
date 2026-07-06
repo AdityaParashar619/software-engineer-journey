@@ -19,3 +19,5 @@ class Solution {
         return left;
     }
 }
+// Input: nums = [1,3,5,6], target = 2
+// Output: 1
