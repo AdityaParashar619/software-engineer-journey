@@ -20,3 +20,5 @@ public class binarySearch {
         return -1;
 }
 }
+        // int[] nums={-1,0,3,5,9,12};
+        // int target=9;
