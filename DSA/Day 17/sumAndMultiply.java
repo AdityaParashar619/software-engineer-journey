@@ -13,3 +13,6 @@ public class sumAndMultiply{
         return x*sum;
     }
 }
+// Input: n = 10203004
+
+// Output: 12340
